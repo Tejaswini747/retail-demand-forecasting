@@ -129,10 +129,8 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Ayush Ahire**
+Tejaswini Ahire
 
-* LinkedIn: (Add your link here)
-* GitHub: (Add your profile link here)
 
 ---
 
